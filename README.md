@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/94b140ee-ee1d-4581-9da5-bac5fa66cbf9" /># 🥗 Nutrition Assistant
+# 🥗 Nutrition Assistant
 
 <div align="center">
 
@@ -188,7 +188,7 @@ nutrition-assistant/
 ## 🏠 Home Page
 
 ```
-<img width="1600" height="900" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/60706f7a-b483-4f70-9443-8101cd0b6fd7" />
+<img width="1600" height="900" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/94b140ee-ee1d-4581-9da5-bac5fa66cbf9" />
 
 ```
 
