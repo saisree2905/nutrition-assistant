@@ -187,56 +187,50 @@ nutrition-assistant/
 
 ## 🏠 Home Page
 
-```
-<img width="1600" height="900" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/94b140ee-ee1d-4581-9da5-bac5fa66cbf9" />
+---
 
-```
+<img width="1600" height="900" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/94b140ee-ee1d-4581-9da5-bac5fa66cbf9" />
 
 ---
 
 ## 🔐 Login Page
 
-```
-<img width="1600" height="900" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/8655533e-8503-4596-abb0-71cba396ec65" />
+---
 
-```
+<img width="1600" height="900" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/8655533e-8503-4596-abb0-71cba396ec65" />
 
 ---
 
 ## 📝 Registration
 
-```
-<img width="1600" height="900" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/d0f2a7ec-51b3-4ba5-abd0-a33d47a332ba" />
+---
 
-```
+<img width="1600" height="900" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/d0f2a7ec-51b3-4ba5-abd0-a33d47a332ba" />
 
 ---
 
 ## 👤 User Dashboard
 
-```
-<img width="1600" height="900" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/04e953fc-aeb7-448a-9893-4f14e627ea0e" />
+---
 
-```
+<img width="1600" height="900" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/04e953fc-aeb7-448a-9893-4f14e627ea0e" />
 
 ---
 
 ## 🩺 Dietitian Dashboard
 
-```
-<img width="1600" height="900" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/9e1d9e4a-1e2f-4a12-84b3-43615a2fe1d1" />
+---
 
-```
+<img width="1600" height="900" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/9e1d9e4a-1e2f-4a12-84b3-43615a2fe1d1" />
 
 ---
 
 
 ## 📊 Analytics
 
-```
-<img width="1600" height="900" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/a1955880-f118-4399-9d3f-14d14520e554" />
+---
 
-```
+<img width="1600" height="900" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/a1955880-f118-4399-9d3f-14d14520e554" />
 
 ---
 
